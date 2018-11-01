@@ -10,7 +10,9 @@
 
 ## Description
 
-This is a simple portfolio page. Page utilizes a grid-based layout with styles making use of a Bootstrap framework. All content is responsive and displays on all display sizes. 
+This is a simple portfolio page. Page utilizes a grid-based layout with styles making use of a Bootstrap framework. All content is responsive and displays on all display sizes.
+
+Demo is available via GitHub.io: https://barbarastempien.github.io/FEND--Portfolio-Page/index.html
 
 ## Tools & Dependencies
 
